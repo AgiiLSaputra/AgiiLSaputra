@@ -13,7 +13,7 @@
 ## About Me
 
 - Mahasiswa **Teknik Informatika**
-- Target: jadi expert di semua jalur sekaligus — **Machine Learning Engineer**, **Software Engineer**, **Software Developer**, **Game Developer**, dan **DevOps Engineer** — bukan cuma pilih satu
+- Target: jadi expert di semua jalur sekaligus **Machine Learning Engineer**, **Software Engineer**, **Software Developer**, **Game Developer**, dan **DevOps Engineer** — bukan cuma pilih satu
 - Buatku, coding bukan sekadar nulis instruksi buat komputer — itu cara bercerita lewat layar
 
 <br>
