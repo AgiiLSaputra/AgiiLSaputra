@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/reze.gif" width="260" alt="Reze gif" />
+<img src="assets/Reze.gif" width="260" alt="Reze gif" />
 
 # AGIL SAPUTRA
 
