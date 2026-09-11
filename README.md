@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/Reze.gif" width="260" alt="Reze gif" />
+<img src="assets/reze.gif" width="260" alt="Reze gif" />
 
 # AGIL SAPUTRA
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=F72585&center=true&vCenter=true&width=650&lines=Halo%2C+aku+AgiiL!;Mahasiswa+Teknik+Informatika;Calon+ML+Engineer+%7C+SWE+%7C+Game+Dev+%7C+DevOps;Coding+itu+caraku+bercerita+lewat+layar" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=1000&lines=Halo%2C+aku+AgiiL!;Mahasiswa+Teknik+Informatika;Fokus+Ingin+Menjadi+Calon+ML+Engineer+%7C+SWE+%7C+Game+Dev+%7C+DevOps;Coding+itu+caraku+bercerita+lewat+layar" alt="Typing SVG" />
 
 </div>
 
@@ -13,8 +13,8 @@
 ## About Me
 
 - Mahasiswa **Teknik Informatika**
-- Target: jadi expert di semua jalur sekaligus **Machine Learning Engineer**, **Software Engineer**, **Software Developer**, **Game Developer**, dan **DevOps Engineer** bukan cuma pilih satu
-- Buatku, coding bukan sekadar nulis instruksi buat komputer itu cara bercerita lewat layar
+- Target: jadi expert di semua jalur sekaligus — **Machine Learning Engineer**, **Software Engineer**, **Software Developer**, **Game Developer**, dan **DevOps Engineer** — bukan cuma pilih satu
+- Buatku, coding bukan sekadar nulis instruksi buat komputer — itu cara bercerita lewat layar
 
 <br>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moon.still_learning)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username_kamu)
 
 </div>
 
@@ -75,6 +75,6 @@
 
 <img src="https://github-readme-utils.vercel.app/api/gif/anime" width="220" alt="anime gif" />
 
-_"Setiap repo adalah bab baru."_
+*"Setiap repo adalah bab baru."*
 
 </div>
