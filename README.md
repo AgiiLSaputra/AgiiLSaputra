@@ -13,7 +13,7 @@
 ## About Me
 
 - Mahasiswa **Teknik Informatika**
-- Target: Ambisi ingin expert di semua jalur sekaligus dibidang **Machine Learning Engineer**, **Software Engineer**, **Software Developer**, **Game Developer**, dan **DevOps Engineer** bukan cuma pilih satu
+- Target: Ambisi ingin menjadi seorang yang bisa banyak hal **Machine Learning Engineer**, **Software Engineer**, **Software Developer**, **Game Developer**, dan **DevOps Engineer** bukan cuma pilih satu
 - Buatku, coding bukan sekadar nulis instruksi buat komputer itu cara bercerita lewat layar
 
 <br>
