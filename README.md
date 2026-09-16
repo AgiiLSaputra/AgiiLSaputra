@@ -4,7 +4,7 @@
 
 # AGIL SAPUTRA
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=1000&lines=Halo%2C+aku+AgiiL!;Mahasiswa+Teknik+Informatika;Fokus+Ingin+Menjadi+Calon+ML+Engineer+%7C+SWE+%7C+SWD+%7C+Game+Dev+%7C+DevOps;Coding+itu+caraku+bercerita+lewat+layar" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=1000&lines=Halo%2C+aku+Agil+Saputra!;Mahasiswa+Teknik+Informatika;Fokus+Ingin+Menjadi+Calon+ML+Engineer+%7C+SWE+%7C+SWD+%7C+Game+Dev+%7C+DevOps;Coding+itu+caraku+bercerita+lewat+layar" alt="Typing SVG" />
 
 </div>
 
