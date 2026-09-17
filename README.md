@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-utils.vercel.app/api/gif/anime" width="220" alt="anime gif" />
+<img src="assets/Violet.gif" width="260" alt="Reze gif" />
 
 *"Setiap repo adalah bab baru."*
 
