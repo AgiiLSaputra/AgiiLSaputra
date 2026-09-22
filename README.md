@@ -75,6 +75,6 @@
 
 <img src="assets/Violet.gif" width="260" alt="Reze gif" />
 
-*"Setiap repo adalah bab baru."*
+*"Setiap repositoy adalah bab baru."*
 
 </div>
