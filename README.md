@@ -15,6 +15,7 @@
 - Mahasiswa **Teknik Informatika**
 - Goal: Ambisi saya ingin menjadi seorang yang bisa banyak hal seperti dibidang **Machine Learning Engineer**, **Software Engineer**, **Software Developer**, **Game Developer**, dan **DevOps Engineer** bukan cuma pilih satu tetapi saya ingin bisa di semua bidang tersebut
 - Bagiku, coding bukan sekadar nulis instruksi buat komputer itu cara saya bercerita lewat layar
+- Likes trying new things
 
 <br>
 
