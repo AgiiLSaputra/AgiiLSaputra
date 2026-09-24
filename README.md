@@ -55,7 +55,6 @@
 ![Machine Learning Engineer](https://img.shields.io/badge/-Machine%20Learning%20Engineer-8A2BE2?style=for-the-badge)
 ![Software Engineer](https://img.shields.io/badge/-Software%20Engineer-1E90FF?style=for-the-badge)
 ![Software Developer](https://img.shields.io/badge/-Software%20Developer-00B4D8?style=for-the-badge)
-![Game Developer](https://img.shields.io/badge/-Game%20Developer-FF8500?style=for-the-badge)
 ![DevOps Engineer](https://img.shields.io/badge/-DevOps%20Engineer-2ECC71?style=for-the-badge)
 
 </div>
