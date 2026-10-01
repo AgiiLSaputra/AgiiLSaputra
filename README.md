@@ -42,7 +42,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AgiiLSaputra&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AgiiLSaputra&theme=radical&hide_border=true&v=2)
 
 </div>
 
